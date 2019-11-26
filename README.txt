@@ -24,6 +24,7 @@ Processing with the University of Edinburgh):
 * J. Clayton, "Towards phone classification from imagined speech using
   a lightweight EEG brain-computer interface," M.Sc. dissertation,
   University of Edinburgh, Edinburgh, UK, 2019.
+  
 * S. Wellington, "An investigation into the possibilities and limitations
   of decoding heard, imagined and spoken phonemes using a low-density,
   mobile EEG headset," M.Sc. dissertation, University of Edinburgh,
