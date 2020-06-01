@@ -92,6 +92,7 @@ Participant | Notes
 21 | E
 
 E = native speaker of English
+
 NNS = non-native speaker of English (>= C1 level)
 
 For participants, dataset refs chinese-1 and chinese-2:
