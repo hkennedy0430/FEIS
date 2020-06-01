@@ -1,7 +1,7 @@
 ﻿
 ---
 ---
-## Welcome to the FEIS (Fourteen-channel EEG with Imagined Speech) dataset.
+# Welcome to the FEIS (Fourteen-channel EEG with Imagined Speech) dataset.
 ---
 ---
 
